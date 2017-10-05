@@ -9,7 +9,7 @@ Para isso será necessário criar uma aplicação que atenda os requsitos abaixo
 
 ## Frontend
 
-Construa uma aplicação SPA utilizando Angular 4 e TypeScript que atenda o seguinte:
+Construa uma aplicação SPA utilizando Angular 4, Less e TypeScript que atenda o seguinte:
 
 - O usuário terá 1 tela de busca de clientes por nome.
 - Ao digitar parte do nome e clicar o botão Buscar, a aplicação deve mostrar uma lista de clientes com todos os atributos existentes que foram encontrados no backend.
@@ -19,10 +19,9 @@ Construa uma aplicação SPA utilizando Angular 4 e TypeScript que atenda o segu
 ***
 
 - O usuário terá também 1 tela de busca de livros por título.
-- Ao digitar parte do título e clicar o botão buscar, a aplicação deve mostrar uma lista de licros com todos os atributos existentes que foram encontrados no backend.
+- Ao digitar parte do título e clicar o botão buscar, a aplicação deve mostrar uma lista de livros com todos os atributos existentes que foram encontrados no backend.
 - Caso nenhum livro satisfaça a query de busca, a aplicação deve mostrar uma mensagem solicitando que a string de busca seja melhorada.
 - O endpoint de busca encontra-se em https://dummy-blue-hunter.mybluemix.net/book/by-title/{title-part} onde {title-part} é parte do título a ser buscado.
-- Stylesheet deve utilizar Less.
 
 ## Backend
 
