@@ -50,6 +50,7 @@ Caso opte por banco relacional, inclua os scripts de criação dos objetos (data
 ## Como destacar-se?
 - Escrever testes unitários com boa cobertura.
 - Fazer o deploy da aplicação no seu ambiente de nuvem preferido ([IBM Bluemix](https://console.ng.bluemix.net/), AWS, Openshift, Heroku).
+- Seguir os [12 fatores](https://12factor.net/)
 
 ## Como enviar o código para análise?
 O desenvolvedor deve criar um projeto no seu Git repo preferido (GitHub, BitBucket, etc). **Não serão aceitos merge requests para este repo aqui!** 
